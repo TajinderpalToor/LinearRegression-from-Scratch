@@ -1,0 +1,3 @@
+Dataset contained the R&D cost, administration cost, marketing cost, state and profit of 50 startups. 
+Use linear regression to estiamte the profit of the startups. The algorithm was implemented from scratch. An error of roughly
+10% was seen between the predicted result and test set. 

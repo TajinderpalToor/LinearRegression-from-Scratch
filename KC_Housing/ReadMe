@@ -1,0 +1,3 @@
+The dataset contained inforamtion about the houses in King County, Washington State, USA. The dataset featured about 21k rows and numerous featrues. 
+The dataset had features such asprice,bedrooms,bathroom,floors,waterfront,etc. I implemented linear regression from scratch
+to predict the price of the house according to the features of the houses. The algorithm was also implemented using scikit-learn to see the difference in performance
